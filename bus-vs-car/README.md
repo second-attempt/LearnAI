@@ -16,4 +16,4 @@ download_images.py
         img_size (int): Final image size (square).
 
 train_classifier.py
-  This script trains a deep learning image classifier using FastAI to distinguish between buses and cars based on road scene images.
+  - This script trains a deep learning image classifier using FastAI to distinguish between buses and cars based on road scene images.
